@@ -1,0 +1,17 @@
+# Visual Studio yapılandırma dosyaları
+.vs/
+*.suo
+*.user
+*.vscode/
+
+# Derleme ve geçici dosyalar
+bin/
+obj/
+*.dll
+*.exe
+*.log
+*.tmp
+
+# Diğer geçici veya gereksiz dosyalar
+*.cache
+*.pdb
